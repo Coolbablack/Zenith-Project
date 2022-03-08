@@ -1,0 +1,33 @@
+body {
+    height: 1000vh;
+
+}
+
+.homeimg {
+    width: 1570px;
+    height: 715px;
+    background-image: url("https://i.pinimg.com/originals/8c/b9/2e/8cb92ef282c64a7d5a66154b2b8283d0.jpg");
+    object-fit: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+.down-arrow {
+  border: solid rgb(241, 238, 238);
+  border-width: 0 5px 5px 0;
+  display: inline-block;
+  padding: 8px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
+.float-right {
+  float: right;
+}
+.float-left {
+  float: left;
+}
+.margintop {
+  margin-top: 1000px;
+}
